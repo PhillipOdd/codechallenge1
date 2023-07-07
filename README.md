@@ -1,7 +1,9 @@
 # codechallenge1
 # Student Code Generator
 
-This is a simple bit of code that takes in a value and returns a letter grade based on that value
+code1 is a simple bit of code that takes in a value and returns a letter grade based on that value
+code2 is a simple bit of code that detect the speed of a car and takes away point based on their speed over the speed limit or suspends their license
+
 
 
 ## Description
@@ -18,8 +20,8 @@ The code takes in a value(in this case student marks) and assigns a letter to th
 
 `cdcodechallenge1`
 
- 3.Open the code1.js 
- 4.Run it and check response on terminal
+ 3. Open the code1.js 
+ 4. Run it and check the response on the terminal
 
  
 
