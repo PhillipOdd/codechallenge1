@@ -1,6 +1,8 @@
-//start of first question
-var marks = 35;
+//start of the first question
+// create function to read students marks and return corresponding letter grade
+function letterGrade(marks){
 {
+    //parameters for certain grades
     if (marks <= 100 && marks >= 80) {
         console.log("Grade : A");
     }
@@ -19,6 +21,11 @@ var marks = 35;
 
 
 }
+}
+//testing code with different values
+letterGrade(90);
+letterGrade(57);
+letterGrade(30);
 //end of first question
 
 
