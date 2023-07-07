@@ -15,3 +15,13 @@ function speedDectector(speed) {
     else {
         console.log("your license is suspended");
     }
+
+
+}
+//under the speed limit
+speedDectector(65);
+//just over the speed limit
+speedDectector(100);
+//getting over 12 points
+speedDectector(300);
+
